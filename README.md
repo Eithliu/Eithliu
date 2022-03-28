@@ -3,7 +3,7 @@
 
 Here is who I am:
 
-- 🔭 I’m currently working at **Nord-Image** as a web developer, working with wordpress, php, js, etc.
+- 🔭 I’m currently working at **Nord-Image** as a web developer, working with wordpress, php/laravel, js/React/VueJS, etc.
 - 🌱 I’m currently learning how to become a **designer & developer of applications**.
 - 👯 I’m looking to collaborate on open source projects, with my humble knowledge.
 - 💬 Ask me about anything regarding web dev or drawing and animating :)
