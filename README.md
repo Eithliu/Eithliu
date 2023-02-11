@@ -3,7 +3,8 @@
 
 Here is who I am:
 
-- 🔭 I’m currently working at **Nord-Image** as a web developer, working with WordPress, PHP/Laravel, JS/VueJS/VueX.
+- ✔️ Available from March 1st, in full or partial remote if it's no more than 20 km around my house.
+- 🔭 I’m currently working at **Nord-Image** as a web developer, working with WordPress, PHP/Laravel, JS/VueJS/VueX. 
 - 💻 I have knowledge on software architecture, API's (REST or GraphQL), NodeJS and so on...
 - 🌱 I’m currently learning how to become a **designer & developer of applications**.
 - 👯 I’m looking to collaborate on open source projects, with my humble knowledge.
