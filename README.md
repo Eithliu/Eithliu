@@ -3,7 +3,7 @@
 
 Here is who I am:
 
-- ✔️ fullstack dev for (Pix)[https://github.com/1024pix]
+- ✔️ Fullstack Dev for [Pix](https://github.com/1024pix)
 - 🔭 I worked for 16 months at **Nord-Image** as a web developer, working with WordPress, PHP/Laravel, JS/VueJS/VueX. 
 - 💻 I have knowledge on software architecture, API's (REST or GraphQL), NodeJS and so on...
 - 🌱 I’m currently learning how to become a **designer & developer of applications**.
